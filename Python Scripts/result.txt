@@ -1,0 +1,52 @@
+Summary: NEW INCIDENT: B1 ETL job HDInsight cluster not starting – 8 July 2021
+Summary: NEW INCIDENT: B1 ETL job HDInsight cluster not starting – 8 July 2021
+Summary: NEW INCIDENT: B1 ETL job HDInsight cluster not starting – 8 July 2021
+Summary: NEW INCIDENT: B1 ETL job HDInsight cluster not starting – 8 July 2021
+Summary: NEW INCIDENT: B1 ETL job HDInsight cluster not starting – 8 July 2021
+Summary: NEW INCIDENT: B1 ETL job HDInsight cluster not starting – 8 July 2021
+Summary: NEW INCIDENT: B1 ETL job HDInsight cluster not starting – 8 July 2021
+Summary: NEW INCIDENT: B1 ETL job HDInsight cluster not starting – 8 July 2021
+Summary: NEW INCIDENT: B1 ETL job HDInsight cluster not starting – 8 July 2021 | Done
+Summary: INC4135604: NEW INCIDENT: Job d3e40 in B1 Compute stalled during processing – 8 July 2021
+Summary: INC4135604: NEW INCIDENT: Job d3e40 in B1 Compute stalled during processing – 8 July 2021
+Summary: NEW INCIDENT: B1 ETL job HDInsight cluster not starting – 8 July 2021 | Done
+Summary: INC4135604: NEW INCIDENT: Job d3e40 in B1 Compute stalled during processing – 8 July 2021
+Summary: INC4135604: NEW INCIDENT: Job d3e40 in B1 Compute stalled during processing – 8 July 2021
+Summary: INC4135604: NEW INCIDENT: Job d3e40 in B1 Compute stalled during processing – 8 July 2021
+Summary: INC4135604: NEW INCIDENT: Job d3e40 in B1 Compute stalled during processing – 8 July 2021
+Summary: INC4135604: NEW INCIDENT: Job d3e40 in B1 Compute stalled during processing – 8 July 2021 | Done
+Summary: INC4138893 - NEW INCIDENT: IDM report not published in B1 during initialise - 9 July 2021
+Summary: INC4138893 - NEW INCIDENT: IDM report not published in B1 during initialise - 9 July 2021
+Summary: INC4138893 - NEW INCIDENT: IDM report not published in B1 during initialise - 9 July 2021 | Done
+Summary: NEW INCIDENT: IDM report not published in B1 during initialise - 9 July 2021
+Summary: NEW INCIDENT: IDM report not published in B1 during initialise - 9 July 2021
+Summary: NEW INCIDENT: IDM report not published in B1 during initialise - 9 July 2021 | Done
+Summary: INC4142307 - NEW INCIDENT: B1 Compute jobs slow to complete– 15 July 2021
+Summary: INC4142307 - NEW INCIDENT: B1 Compute jobs slow to complete– 15 July 2021
+Summary: INC4142307 - NEW INCIDENT: B1 Compute jobs slow to complete– 15 July 2021
+Summary: INC4142307 - NEW INCIDENT: B1 Compute jobs slow to complete– 15 July 2021
+Summary: INC4142307 - NEW INCIDENT: B1 Compute jobs slow to complete– 15 July 2021
+Summary: INC4142307 - NEW INCIDENT: B1 Compute jobs slow to complete– 15 July 2021
+Summary: INC4142307 - NEW INCIDENT: B1 Compute jobs slow to complete– 15 July 2021
+Summary: INC4142307 - NEW INCIDENT: B1 Compute jobs slow to complete– 15 July 2021
+Summary: INC4142307 - NEW INCIDENT: B1 Compute jobs slow to complete– 15 July 2021
+Summary: INC4142307 - NEW INCIDENT: B1 Compute jobs slow to complete– 15 July 2021
+Summary: INC4142307 - NEW INCIDENT: B1 Compute jobs slow to complete– 15 July 2021 | Done
+Summary: INC4162429 - New Incident: B1 BPM JS 901 complete with errors - 5 August 2021
+Summary: INC4162429 - New Incident: B1 BPM JS 901 complete with errors - 5 August 2021
+Summary: INC4162429 - New Incident: B1 BPM JS 901 complete with errors - 5 August 2021
+Summary: INC4162429 - New Incident: B1 BPM JS 901 complete with errors - 5 August 2021
+Summary: INC4162429 - New Incident: B1 BPM JS 901 complete with errors - 5 August 2021
+Summary: INC4162429 - New Incident: B1 BPM JS 901 complete with errors - 5 August 2021
+Summary: INC4162429 - New Incident: B1 BPM JS 901 complete with errors - 5 August 2021
+Summary: INC4162429 - New Incident: B1 BPM JS 901 complete with errors - 5 August 2021
+Summary: INC4162429 - New Incident: B1 BPM JS 901 complete with errors - 5 August 2021
+Summary: INC4162429 - New Incident: B1 BPM JS 901 complete with errors - 5 August 2021
+Summary: INC4162429 - New Incident: B1 BPM JS 901 complete with errors - 5 August 2021
+
+
+
+
+
+
+
